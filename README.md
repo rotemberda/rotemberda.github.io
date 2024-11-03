@@ -2,7 +2,7 @@
 
 some text that is **bold** and *italic*
 
-##subtitle
+## subtitle
 
 * list
 
