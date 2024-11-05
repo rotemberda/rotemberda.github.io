@@ -1,7 +1,7 @@
 # Rotem Berda's Web Page
 
-<div style="float: right; margin-left: 20px;">
-  <img src="my_image.jpeg" width="300"/>
+<div style="float: right; margin-left: 20px; border-radius: 15px; overflow: hidden;">
+  <img src="my_image.jpeg" width="300" style="border-radius: 15px;"/>
 </div>
 
 ## About Me
