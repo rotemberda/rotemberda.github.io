@@ -21,7 +21,7 @@ My research combines both wet-lab techniques and bioinformatics to tackle questi
 
 ### Contact
 Feel free to reach out to me through my GitHub profile.
-[GitHub: @rotemberda](https://github.com/rotemberda)
+[GitHub](https://github.com/rotemberda)
 
 ---
 
