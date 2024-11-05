@@ -1,6 +1,6 @@
 # Rotem Berda's Web Page
 
-![Rotem's Image](my_image.jpeg)
+<img src="my_image.jpeg" width="300"/>
 
 ## About Me
 I am passionate about **applied biology** and have a strong academic foundation in the field. I graduated with a BSc from **Hebrew University of Jerusalem (HUJI)** and am currently pursuing my MSc. at **Prof. Naama Barkai's Lab**. I specialize in understanding biological systems through advanced experimental and computational approaches.
