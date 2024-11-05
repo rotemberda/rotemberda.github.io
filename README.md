@@ -1,6 +1,6 @@
 # Rotem Berda's Web Page
 
-My Image
+![](my_image.jpeg)
 
 ## About
 I'm intrested in applied biolgy.
