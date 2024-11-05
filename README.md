@@ -20,8 +20,8 @@ I have hands-on experience in:
 My research combines both wet-lab techniques and bioinformatics to tackle questions in applied biology.
 
 ### Contact
-Feel free to reach out to me through my GitHub profile.
-[GitHub](https://github.com/rotemberda)
+Feel free to reach out to me through my [GitHub](https://github.com/rotemberda) profile.
+
 
 ---
 
