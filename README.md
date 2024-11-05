@@ -26,3 +26,8 @@ Feel free to reach out to me through my GitHub profile.
 ---
 
 If you would like to connect or collaborate, please don't hesitate to reach out!
+
+---
+
+[Course repository](https://github.com/szabgab/wis-python-course-2024-11)
+[Gabor home page](https://szabgab.com/)
