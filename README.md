@@ -29,5 +29,4 @@ If you would like to connect or collaborate, please don't hesitate to reach out!
 
 ---
 
-[Course repository](https://github.com/szabgab/wis-python-course-2024-11)
-[Gabor home page](https://szabgab.com/)
+[Course repository](https://github.com/szabgab/wis-python-course-2024-11) | [Gabor home page](https://szabgab.com/)
