@@ -8,7 +8,7 @@
 I am passionate about **applied biology** and have a strong academic foundation in the field. I graduated with a BSc from **Hebrew University of Jerusalem (HUJI)** and am currently pursuing my MSc. at **Prof. Naama Barkai's Lab**. I specialize in understanding biological systems through advanced experimental and computational approaches.
 
 You can learn more about the lab I work in here:  
-[Prof. Naama Barkai's Lab](https://barkailab.wixsite.com/barkai)
+[Prof. Naama Barkai's Lab](https://barkailab.wixsite.com/barkai) | [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/)
 
 ### Background
 I have hands-on experience in:
