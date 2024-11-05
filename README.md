@@ -1,6 +1,6 @@
 # Rotem Berda's Web Page
 
-<div style="float: left; margin-right: 20px;">
+<div style="float: right; margin-left: 20px;">
   <img src="my_image.jpeg" width="200"/>
 </div>
 
