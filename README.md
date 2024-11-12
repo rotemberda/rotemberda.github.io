@@ -1,6 +1,5 @@
 <div style="position: relative; text-align: center; color: white;">
   <img src="banner.PNG" alt="Banner" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2.5em; background-color: rgba(0,0,0,0.5); padding: 10px 20px; border-radius: 10px;">Welcome to Rotem Berda's Web Page</h1>
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
